@@ -1,9 +1,20 @@
 ![banner](https://user-images.githubusercontent.com/61435324/110541494-d42d1800-80f5-11eb-92e5-570e72bcaebd.gif)
 
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="waving hand"> Hello!  
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="waving hand"> Hello!  
 
 I'm Emmanuel, a software engineer and artist living in New York City 🍎
 
+🔴 Pronouns: he/him/his
+
+🟠 I'm looking for help with **Swift**.
+
+🟡 I'm currently working on **#100DaysOfCode**.
+
+🟢 I'm currently learning **React Native** and **Next.js**.
+
+🔵 Ask me about dogs, playing cards, and paper-cut art.
+
+🟣 Fun Fact: Whoopi Goldberg and Jessica Lange own my art.
 
 <!--
 **emjose/emjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
