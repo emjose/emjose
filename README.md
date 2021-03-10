@@ -5,9 +5,9 @@
 #### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" alt="waving hand"> Hello! I'm Emmanuel, a software engineer and artist living in New York City.
 
 
-🔴 Pronouns: he/him/his
+🔴 Pronouns:  he • him • his
 
-🟠 I'm looking for help with **Swift**.
+🟠 I'm looking for help with **Algorithms**.
 
 🟡 I'm currently working on **#100DaysOfCode**.
 
