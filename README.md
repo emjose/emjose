@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/61435324/110541494-d42d1800-80f5-11eb-92e5-570e72bcaebd.gif)
 
-### Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" alt="waving hand"> 
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="waving hand"> Hello!  
 
 I'm Emmanuel, a software engineer and artist living in New York City 🍎
 
