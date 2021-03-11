@@ -28,11 +28,9 @@
 
 #
 
-
 ![alt text](header-github-stats.png) 
 
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
 
 #
 
@@ -50,10 +48,8 @@
 [![Ruby on Rails Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=black&logo=rails&logoColor=CC0000)](#) -->
 
 <img alt="Rails badge" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" height=30 width=100/> <img alt="Ruby badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" height=30 width=100/> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>  <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
-
 <img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> <img alt="Photoshop badge" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height=30 width=100/> <img alt="Lightroom badge" src="https://img.shields.io/badge/lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20lightroom&logoColor=white" height=30 width=100/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/> <img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/></p>
 
-#
 
 
 
