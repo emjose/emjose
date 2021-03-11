@@ -1,6 +1,60 @@
+<!-- 
+
+*** NOTES ***
+
+• All Github READMEs use Markdown formatting: https://guides.github.com/features/mastering-markdown/
+
+• Youtube Resource A: https://youtu.be/OoncKvcfs0M
+
+• Youtube Resource B (Part 1): https://youtu.be/ECuqb5Tv9qI
+
+• Youtube Resource B (Part 2): https://youtu.be/n6d4KHSKqGk
+
+• The particle banner and gradient backgrounds were inspired by Adam Alston's github profile: https://github.com/adamalston
+
+• Adam's github profile is in this curated list of Github Profiles: https://awesomegithubprofile.tech/
+
+-->
+
 ![banner](https://user-images.githubusercontent.com/61435324/110541494-d42d1800-80f5-11eb-92e5-570e72bcaebd.gif)
 
+<!-- 
+
+*** NAME BANNER ***
+
+• Created with tsParticles: https://particles.js.org/ 
+
+• Recorded a 9 second demo of the particle effect.
+
+• Converted demo video into a GIF with GIPHY Capture: https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12
+
+• Resized GIF to be under 10MB (the size limit of GIF files for Github READMEs)
+
+• Blog Resource 1: https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47
+
+• Blog Resource 2: https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c
+
+• Github Emoji Cheat Sheet 1: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+• Github Emoji Cheat Sheet 2: https://gist.github.com/rxaviers/7360908
+
+ -->
+
 ![alt text](header-intro.png) 
+
+<!-- 
+
+*** SECTION HEADERS ***
+
+• Created with Adobe Photoshop.
+
+• Light gray color for text so they would also show up in dark mode.
+
+• Text layers had transparent background layer and saved in PNG format.
+
+• Each text header was cropped with the same canvas width, making them responsive when uploaded into the README.
+
+ -->
 
 🔴 &nbsp;My pronouns are  **he** / **him** / **his**
 
@@ -16,39 +70,186 @@
 
 # 
 
+<!-- 
+
+*** BIO SECTION ***
+
+• A single hashtag symbol (#) with an empty line above and below the symbol transforms into a horizontal break line between sections.
+
+• The HTML code / HTML entity for a non-breaking blank space character is &nbsp; (see color circles above)
+
+• HTML entities: https://www.w3schools.com/html/html_entities.asp#:~:text=A%20commonly%20used%20entity%20in,break%20into%20a%20new%20line).
+
+-->
+
 ![alt text](header-project-demos.png) 
 
-<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge">
+<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Bombastic Demo">
 
 #
+
+<!-- 
+
+*** PROJECT DEMO SECTION ***
+
+• The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
+
+• Generating custom Markdown Badges: https://shields.io/
+
+• Logos and Hex color values for over 1800 brands: https://simpleicons.org/
+
+• If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
+
+• The 6-digit Hex color value should be placed right after "%23" - For example, see "CozyNation-%23430098" in code below.
+
+PARSED PROJECT DEMO BADGES
+
+<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> 
+
+<a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> 
+
+<a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="FlavorWorld Demo"> 
+
+<a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Bombastic Demo">
+
+-->
 
 ![alt text](header-connect.png) 
-<p>
-<a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
+
+<p><a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
 
 #
+
+<!-- 
+
+*** LET'S CONNECT SECTION ***
+
+• The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
+
+• Generating custom Markdown Badges: https://shields.io/
+
+• Logos and Hex color values for over 1800 brands: https://simpleicons.org/
+
+• If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
+
+• The 6-digit Hex color value should be placed right after "%23" - For example, see "youtube-%23FF0000" in code below.
+
+PARSED SOCIAL MEDIA BADGES
+
+<a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> 
+
+<a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> 
+
+<a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> 
+
+<a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> 
+
+<a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> 
+
+<a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
+
+-->
 
 ![alt text](header-github-stats.png) 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
 
 #
 
+<!-- 
+
+*** GITHUB STATS SECTION ***
+
+• Generating your custom Github stats: https://github.com/anuraghazra/github-readme-stats
+
+• Blog Resource: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+
+• Height and width values for the stats cards should be even, not odd. Oddly, odd values did not work for me.
+
+PARSED GITHUB STATS CARDS
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> 
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
+
+-->
+
 ![alt text](header-technologies.png) 
 
-<!-- Ruby, Rails, JavaScript, React, Redux, Photoshop, Lightroom, PostgreSQL, SQL, Github/Git, Semantic UI, SQLite, CSS -->
+<p><img alt="Rails badge" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" height=30 width=100/> <img alt="Ruby badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" height=30 width=100/> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>  <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
+<img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> <img alt="Photoshop badge" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height=30 width=100/> <img alt="Lightroom badge" src="https://img.shields.io/badge/lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20lightroom&logoColor=white" height=30 width=100/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/> <img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/></p>
 
-<!-- Two-Tone Badge Style
+<!-- 
+
+*** TECHNOLOGIES SECTION ***
+
+• The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
+
+• Generating custom Markdown Badges: https://shields.io/
+
+• Logos and Hex color values for over 1800 brands: https://simpleicons.org/
+
+• If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
+
+• The 6-digit Hex color value should be placed right after "%23" - For example, see "rails%20-%23CC0000" in code below.
+
+PARSED TECHNOLOGIES BADGES
+
+<img alt="Rails badge" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" height=30 width=100/> 
+
+<img alt="Ruby badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" height=30 width=100/> 
+
+<img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>  
+
+<img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
+
+<img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> 
+
+<img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
+
+<img alt="Photoshop badge" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height=30 width=100/> 
+
+<img alt="Lightroom badge" src="https://img.shields.io/badge/lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20lightroom&logoColor=white" height=30 width=100/> 
+
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> 
+
+<img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/> 
+
+<img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> 
+
+<img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/>
+
+-->
+
+<!-- 
+
+• My personal badges were "Ruby, Rails, JavaScript, React, Redux, Photoshop, Lightroom, PostgreSQL, SQL, Github/Git, Semantic UI, SQLite, CSS" 
+
+• I omitted Semantic UI to have even number of badges (better aesthetic when resized).
+
+-->
+
+<!-- 
+
+*** Alternative Two-Tone Badge Style ***
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)
 
-[![Ruby on Rails Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=black&logo=rails&logoColor=CC0000)](#) -->
+[![Ruby on Rails Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=black&logo=rails&logoColor=CC0000)](#) 
 
-<img alt="Rails badge" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" height=30 width=100/> <img alt="Ruby badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" height=30 width=100/> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>  <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
-<img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> <img alt="Photoshop badge" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height=30 width=100/> <img alt="Lightroom badge" src="https://img.shields.io/badge/lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20lightroom&logoColor=white" height=30 width=100/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/> <img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/></p>
+-->
+
+<!-- 
+
+*** COMPREHENSIVE LIST OF GITHUB PROFILE README RESOURCES ***
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
+
+-->
 
 
 
