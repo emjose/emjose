@@ -1,7 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/61435324/110541494-d42d1800-80f5-11eb-92e5-570e72bcaebd.gif)
 
-<!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" alt="waving hand">  -->
-
 ![alt text](header-intro.png) 
 
 🔴 &nbsp;My pronouns are  **he** / **him** / **his**
@@ -52,7 +50,7 @@
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=368&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=370&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
 
 <!-- &hide_title=true -->
 <!--
