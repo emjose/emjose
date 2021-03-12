@@ -40,9 +40,10 @@
 
 • Github Emoji Cheat Sheet 2: https://gist.github.com/rxaviers/7360908
 
+
  -->
 
-![alt text](header-intro.png) 
+![Hi! I'm Emmanuel, a software engineer and artist in NYC.](header-intro.png) 
 
 <!-- 
 
@@ -54,7 +55,9 @@
 
 • Text layers had transparent background layer and saved in PNG format.
 
-• Each text header was cropped with the same canvas width, making them responsive when uploaded into the README.
+• Each text header was cropped with the same canvas width (1555 pixels), making them responsive when uploaded into the README.
+
+• Alternatives to Photoshop: https://picsart.com/  and  https://www.canva.com/
 
  -->
 
@@ -85,7 +88,7 @@
 -->
 
 
-![alt text](header-project-demos.png) 
+![Project Demos](header-project-demos.png) 
 
 <a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Bombastic Demo">
 
@@ -118,7 +121,7 @@ PARSED PROJECT DEMO BADGES
 -->
 
 
-![alt text](header-connect.png) 
+![Let's Connect!](header-connect.png) 
 
 <p><a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
 
@@ -155,12 +158,11 @@ PARSED SOCIAL MEDIA BADGES
 -->
 
 
-![alt text](header-github-stats.png) 
+![Github Stats](header-github-stats.png) 
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
 
 #
-
 
 <!-- 
 
