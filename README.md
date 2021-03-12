@@ -182,7 +182,7 @@ PARSED GITHUB STATS CARDS
 
 -->
 
-![alt text](header-technologies.png) 
+![Technologies](header-technologies.png) 
 
 <p><img alt="Rails badge" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" height=30 width=100/> <img alt="Ruby badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" height=30 width=100/> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>  <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
 <img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> <img alt="Photoshop badge" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height=30 width=100/> <img alt="Lightroom badge" src="https://img.shields.io/badge/lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20lightroom&logoColor=white" height=30 width=100/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/> <img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/></p>
@@ -258,6 +258,50 @@ PARSED TECHNOLOGIES BADGES
 https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 -->
+
+#
+
+![# 100 Days Of Code](header-100.png) 
+
+<a href="https://emjose.github.io/quote-generator/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 1-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/color-flipper/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 2-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/progress-bar/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 3-e20f79?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/expand-search-one/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 4-c91f8c?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/expand-search-two/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 4-a02bac?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/expanding-cards/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 5-8436c3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/blurry-loading/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 6-7140d3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/password-strength-background/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 6-5c4ce3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/kinetic-loader-1/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 7-5151e7?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/kinetic-loader-2/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 7-4256ed?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/analog-clock-1/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 8-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/analog-clock-2/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 8-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/vertical-cards/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 9-e20f79?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/coffee-counter/"><img alt="Day 10" src="https://img.shields.io/badge/-Day 10-c91f8c?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/range-slider/"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11-a02bac?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/block-animation/"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-8436c3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/heart-animation/"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-7140d3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/opening-crawl/"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13-5c4ce3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/form-validation/"><img alt="Day 14" src="https://img.shields.io/badge/-Day 14-5151e7?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/parallax-background/"><img alt="Day 15" src="https://img.shields.io/badge/-Day 15-4256ed?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/video-scroll-one/"><img alt="Day 16" src="https://img.shields.io/badge/-Day 16-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/video-scroll-two/"><img alt="Day 16" src="https://img.shields.io/badge/-Day 16-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/emjose/parallax-scroll"><img alt="Day 17" src="https://img.shields.io/badge/-Day 17-e20f79?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/split-landing-page/"><img alt="Day 18" src="https://img.shields.io/badge/-Day 18-c91f8c?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/calculator-react/"><img alt="Day 19" src="https://img.shields.io/badge/-Day 19-a02bac?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/calculator-vuejs/"><img alt="Day 19" src="https://img.shields.io/badge/-Day 19-8436c3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/calculator-tilt/"><img alt="Day 19" src="https://img.shields.io/badge/-Day 19-7140d3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/kboard/"><img alt="Day 20" src="https://img.shields.io/badge/-Day 20-5c4ce3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/slingshot/"><img alt="Day 21" src="https://img.shields.io/badge/-Day 21-5151e7?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/toast-notifications/"><img alt="Day 22" src="https://img.shields.io/badge/-Day 11-4256ed?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/budapest-calendar/"><img alt="Day 23" src="https://img.shields.io/badge/-Day 23-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/mousetrail-space/"><img alt="Day 24" src="https://img.shields.io/badge/-Day 24-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/mousetrail-wandavision/"><img alt="Day 25" src="https://img.shields.io/badge/-Day 25-e20f79?style=for-the-badge&logo=day" height=30 width=79/>
+
+<!-- <a href=""><img alt="Day 26" src="https://img.shields.io/badge/-Day -c91f8c?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -a02bac?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -8436c3?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -7140d3?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5c4ce3?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5151e7?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -4256ed?style=for-the-badge&logo=day" height=30 width=79/> -->
+
+<!-- template
+
+ #ff0027, #f70063, #e20f79, #c91f8c, #a02bac, #8436c3, #7140d3, #5c4ce3, #5151e7, #4256ed 
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -ff0027?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -f70063?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -e20f79?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -c91f8c?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -a02bac?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -8436c3?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -7140d3?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5c4ce3?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5151e7?style=for-the-badge&logo=day" height=30 width=79/>
+
+<a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -4256ed?style=for-the-badge&logo=day" height=30 width=79/> -->
 
 
 
