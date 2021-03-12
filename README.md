@@ -279,9 +279,9 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -4256ed?style=for-the-badge&logo=day" height=30 width=79/> -->
 
-<!-- template
+<!-- 
 
- #ff0027, #f70063, #e20f79, #c91f8c, #a02bac, #8436c3, #7140d3, #5c4ce3, #5151e7, #4256ed 
+*** #100DAYSOFCODE BADGE TEMPLATE ***
 
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -ff0027?style=for-the-badge&logo=day" height=30 width=79/>
 
