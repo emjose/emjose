@@ -195,6 +195,10 @@ PARSED GITHUB STATS CARDS
 
 • Generating custom Markdown Badges: https://shields.io/
 
+• Icon Resource 1: https://devicon.dev/
+
+• Icon Resouce 2: https://icongr.am/devicon
+
 • Logos and Hex color values for over 1800 brands: https://simpleicons.org/
 
 • If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
