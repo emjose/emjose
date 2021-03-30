@@ -77,6 +77,8 @@
 
 🟣 &nbsp;Fun Fact: Whoopi Goldberg and Jessica Lange own my art.
 
+<p id="project-demos"><p>
+
 # 
 
 <!-- 
@@ -91,7 +93,7 @@
 
 -->
 
-<p id="project-demos"><p>
+<!-- <p id="project-demos"><p> -->
 
 <a href=#project-demos>![Project Demos](inter-project-demos.png)</a>
 
