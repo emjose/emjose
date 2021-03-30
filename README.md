@@ -10,9 +10,13 @@
 
 • Youtube Resource B (Part 2): https://youtu.be/n6d4KHSKqGk
 
-• The particle banner and gradient backgrounds were inspired by Adam Alston's github profile: https://github.com/adamalston
+• The gradient/aurora aesthetic and clean bulleted list were inspired by Ava's github profile: https://github.com/amxchang
 
-• Adam's github profile is in this curated list of Github Profiles: https://awesomegithubprofile.tech/
+• The particle banner and gradient stats were inspired by Adam Alston's github profile: https://github.com/adamalston
+
+• The color tech badges were inspired by Thomas Guibert's github profile: https://github.com/thmsgbrt
+
+• Ava's, Adam's, and Thomas' github profiles are in this curated list of Github Profiles: https://awesomegithubprofile.tech/
 
 • The README is not importing the stylesheet.
 
@@ -277,6 +281,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5151e7?style=for-the-badge&logo=day" height=30 width=79/>
 
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -4256ed?style=for-the-badge&logo=day" height=30 width=79/> -->
+
+<!-- placeholder section -->
 
 <!-- 
 
