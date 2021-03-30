@@ -47,7 +47,7 @@
 
  -->
 
-![Hi! I'm Emmanuel, a software engineer and artist in NYC.](inter-intro.png) 
+<a href="https://github.com/emjose">![Hi! I'm Emmanuel, a software engineer and artist in NYC.](inter-intro.png)</a>
 
 <!-- 
 
