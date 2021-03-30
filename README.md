@@ -65,7 +65,7 @@
 
 • Each text header was cropped with the same canvas width (1555 pixels), making them responsive when uploaded into the README.
 
-• Alternatives to Photoshop: https://picsart.com/  and  https://www.canva.com/
+• Alternative to Photoshop: https://www.canva.com/
 
  -->
 
