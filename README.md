@@ -323,8 +323,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 <a href=#resources>![Resources](inter-resources.png)</a>
 
-⚪️ &nbsp;[My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
+🔴 &nbsp;[My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
 
-⚪️ &nbsp;[Comprehensive List of Github Profile README Resources](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools) 
+🔴 &nbsp;[Comprehensive List of Github Profile README Resources](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools) 
 
 
