@@ -322,9 +322,9 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 <a href=#stopasianhate>![Resources](inter-stopasianhate.png)</a>
 <a href="https://start-asian-love.vercel.app/">![banner](SAL-banner.png)</a> <p id="resources"><p>
 
-🟣 &nbsp;Start Asian Love [**Repo**](https://github.com/wlcreate/Start-Asian-Love) and [**Live Site**](https://start-asian-love.vercel.app/) 
+🟣 &nbsp;[**Waverley Leung**](https://github.com/wlcreate) and I created Start Asian Love. [**Repo**](https://github.com/wlcreate/Start-Asian-Love) and [**Live Site**](https://start-asian-love.vercel.app/) 
 
-🟣 &nbsp;[**Waverley Leung**](https://github.com/wlcreate) and I created [**Start Asian Love**](https://start-asian-love.vercel.app/) to amplify Asian voices and to provide resources for the #StopAsianHate movement.
+🟣 &nbsp; [**Start Asian Love**](https://start-asian-love.vercel.app/) amplifies Asian voices and provides resources for the **#StopAsianHate** movement.
 
 #
 
@@ -333,9 +333,3 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 🔴 &nbsp;[My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
 
 🔴 &nbsp;[Comprehensive List of Github Profile README Resources](https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools) 
-
-
-
-
-
-
