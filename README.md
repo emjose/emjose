@@ -324,7 +324,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 🟣 &nbsp;[**Waverley Leung**](https://github.com/wlcreate) and I created [**Start Asian Love**](https://start-asian-love.vercel.app/) to amplify Asian voices and provide **#StopAsianHate** resources. 
 
-🟣 &nbsp;Start Asian Love [Repo](https://github.com/wlcreate/Start-Asian-Love) and [Live Site](https://start-asian-love.vercel.app/) 
+🟣 &nbsp;Start Asian Love [Repo](https://github.com/wlcreate/Start-Asian-Love) and [Live Site](https://start-asian-love.vercel.app/).
 
 #
 
