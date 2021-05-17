@@ -322,7 +322,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 #
 
 <a href=#stopasianhate>![Resources](inter-stopasianhate.png)</a>
-<a href="https://start-asian-love.vercel.app/">![banner](SAL-banner.png)</a> <p id="resources"><p>
+<a href="https://www.startalove.com/">![banner](SAL-banner.png)</a> <p id="resources"><p>
 
 🟣 &nbsp;[**Waverley Leung**](https://github.com/wlcreate) and I created [**Start Asian Love**](https://www.startalove.com/) to amplify Asian voices and provide **#StopAsianHate** resources. 
 
