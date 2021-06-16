@@ -97,7 +97,7 @@
 
 <!-- <p id="project-demos"><p> -->
 
-<a href=#project-demos>![Project Demos](inter-project-demos.png)</a> <p id="lets-connect"><p>
+<a href=#project-demos>![Project Demos](inter-project-demos.png)</a> <p id="portfolio"><p>
 
 <a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Bombastic Demo"> <a href="https://youtu.be/mg_Df1Qtm3A"><img src="https://img.shields.io/badge/StartAsianLove-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Start Asian Love Demo"> <a href="https://www.startalove.com/"><img src="https://img.shields.io/badge/StartAsianLove-%23FECC00.svg?&style=for-the-badge&logo=vercel&logoColor=black" height=30 width=100 alt="Cozy Nation Demo">
 
@@ -129,17 +129,17 @@ PARSED PROJECT DEMO BADGES
 
 -->
 
-<!-- <p id="lets-connect"><p> -->
+<!-- <p id="portfolio"><p> -->
 
-<a href=#lets-connect>![Let's Connect!](inter-connect.png)</a> <p id="github-stats"><p>
+<a href=#portfolio>![Portfolio and Social](inter-portfolio.png)</a> <p id="github-stats"><p>
 
-<p><a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
+<p><a href="https://www.emmanuel-jose.com"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=100 alt="Portfolio badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
 
 #
 
 <!-- 
 
-*** LET'S CONNECT SECTION ***
+*** PORTFOLIO & SOCIAL SECTION (formerly lets-connect section) ***
 
 • The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
 
