@@ -73,7 +73,7 @@
 
 🟠 &nbsp;I'm looking for help with **Algorithms**.
 
-🟡 &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://www.startalove.com/">**Start Asian Love**.</a>
 
 🟢 &nbsp;I'm currently learning **React Native** and **Next.js**. <p id="project-demos"><p>
 
