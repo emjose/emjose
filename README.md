@@ -73,7 +73,7 @@
 
 🟠 &nbsp;I'm looking for help with **Algorithms**.
 
-🟡 &nbsp;I'm currently working on <a href="https://github.com/emjose/one-hundred/#header">**#100DaysOfCode**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://github.com/emjose/one-hundred/#header">#100DaysOfCode.</a>
 
 🟢 &nbsp;I'm currently learning **C#** & **Agile Methodology**. <p id="project-demos"><p>
 
