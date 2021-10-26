@@ -285,7 +285,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 <!-- initial width: 79 -->
 <br><p id="stopasianhate"><p>
 
-<a href="https://github.com/emjose/one-hundred/#header"><img alt="Repo Navigation" src="https://img.shields.io/badge/-Repo Navigation-ff0027?style=for-the-badge&logo=day" height=30 width=152/> 
+<a href="https://github.com/emjose/one-hundred/#header"><img alt="Repo Navigation" src="https://img.shields.io/badge/-Repo Navigation-ff0027?style=for-the-badge&logo=day" height=30 width=154/> 
 
 <!-- 
 
