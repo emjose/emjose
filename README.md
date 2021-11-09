@@ -323,7 +323,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 #
 
-<a href=#stopasianhate>![Resources](inter-stopasianhate.png)</a>
+<a href=#stopasianhate>![Resources](inter-stopasianhate-2.png)</a>
 <a href="https://bit.ly/startasianlove">![banner](SAL-banner-2.png)</a> <p id="resources"><p>
 
 🟣 &nbsp;A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources.
