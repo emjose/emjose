@@ -300,25 +300,33 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 <!--
 
 *** #100DAYSOFCODE BADGE TEMPLATE ***
-
+// 1
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -ff0027?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 2
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -f70063?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 3
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -e20f79?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 4
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -c91f8c?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 5
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -a02bac?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 6
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -8436c3?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 7
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -7140d3?style=for-the-badge&logo=day" height=30 width=75/>
-
+// 8
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5c4ce3?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 9
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -5151e7?style=for-the-badge&logo=day" height=30 width=75/>
 
+// 10
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -4256ed?style=for-the-badge&logo=day" height=30 width=75/> -->
 
 #
