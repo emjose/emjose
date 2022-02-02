@@ -79,7 +79,7 @@
 
 🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
 
-🟣 &nbsp;Fun Fact: Whoopi Goldberg and Jessica Lange own my art.
+🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines.🇵
 
 #
 
