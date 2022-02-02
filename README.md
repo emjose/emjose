@@ -79,7 +79,7 @@
 
 🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
 
-🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines.🇵
+🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines.
 
 #
 
