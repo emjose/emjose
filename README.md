@@ -286,7 +286,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 <br><p id="stopasianhate"><p>
 
-<a href="https://github.com/emjose/one-hundred/#header"><img alt="Coding Journey" src="https://img.shields.io/badge/-Coding Journey-ff0027?style=for-the-badge&logo=day" height=30 width=154/>
+<a href="https://github.com/emjose/one-hundred/#header"><img alt="My Coding Journey" src="https://img.shields.io/badge/-My Coding Journey-ff0027?style=for-the-badge&logo=day" height=30 width=154/>
 
 <!--
 
