@@ -330,6 +330,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 #
 
 <a href=#stopasianhate>![Stop Asian Hate](Assets/inter-stopasianhate-2.png)</a>
+
 <a href="https://bit.ly/startasianlove">![Start Asian Love](Assets/SAL-banner-2.png)</a> <p id="bombastic"><p>
 
 🟣 &nbsp;A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources.
@@ -341,6 +342,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 #
 
 <a href=#bombastic>![E-commerce](Assets/inter-ecommerce.png)</a>
+
 <a href="https://youtu.be/qo_YDasFpkM">![Bombastic](Assets/Bombastic-banner.png)</a> <p id="resources"><p>
 
 🔵 &nbsp;A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand.
