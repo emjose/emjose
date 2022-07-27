@@ -97,13 +97,11 @@
 
 <!-- <p id="project-demos"><p> -->
 
-<a href=#project-demos>![Project Demos](Assets/inter-project-demos.png)</a> <p id="portfolio"><p>
+<!-- <a href=#project-demos>![Project Demos](Assets/inter-project-demos.png)</a> <p id="portfolio"><p>
 
-<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Bombastic Demo"> <a href="https://youtu.be/mg_Df1Qtm3A"><img src="https://img.shields.io/badge/StartAsianLove-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Start Asian Love Demo"> <a href="https://bit.ly/startasianlove"><img src="https://img.shields.io/badge/StartAsianLove-%23FECC00.svg?&style=for-the-badge&logoColor=black" height=30 width=95 alt="Start Asian Love Demo">
+<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Bombastic Demo"> <a href="https://youtu.be/mg_Df1Qtm3A"><img src="https://img.shields.io/badge/StartAsianLove-%23FF0000.svg?&style=for-the-badge&logoColor=white" height=30 width=95 alt="Start Asian Love Demo"> <a href="https://bit.ly/startasianlove"><img src="https://img.shields.io/badge/StartAsianLove-%23FECC00.svg?&style=for-the-badge&logoColor=black" height=30 width=95 alt="Start Asian Love Demo"> -->
 
 <!-- &logo=heroku%logoColor, initial width: 100 -->
-
-#
 
 <!--
 
@@ -337,6 +335,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 🟣 &nbsp;A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources.
 
 🟣 &nbsp;Start Asian Love [Repo](https://github.com/wlcreate/Start-Asian-Love) and [Live Site](https://bit.ly/startasianlove).
+
+🟣 &nbsp;Start Asian Love [Video Demo](https://youtu.be/mg_Df1Qtm3A)
 
 #
 
