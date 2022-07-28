@@ -331,11 +331,13 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 <a href="https://bit.ly/startasianlove">![Start Asian Love](Assets/SAL-banner-2.png)</a> <p id="bombastic"><p>
 
-🟣 &nbsp;A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources.
+<!-- 🟣 &nbsp;A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources.
 
 🟣 &nbsp;Start Asian Love [Repo](https://github.com/wlcreate/Start-Asian-Love) and [Live Site](https://bit.ly/startasianlove).
 
-🟣 &nbsp;Start Asian Love [Video Demo](https://youtu.be/mg_Df1Qtm3A)
+🟣 &nbsp;Start Asian Love [Video Demo](https://youtu.be/mg_Df1Qtm3A) -->
+
+A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources: &nbsp;**[Repo](https://github.com/wlcreate/Start-Asian-Love)** • **[Live Site](https://bit.ly/startasianlove)** • **[Video Demo](https://youtu.be/mg_Df1Qtm3A)**
 
 #
 
@@ -343,11 +345,13 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 <a href="https://youtu.be/qo_YDasFpkM">![Bombastic](Assets/Bombastic-banner.png)</a> <p id="resources"><p>
 
-🔵 &nbsp;A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand.
+<!-- 🔵 &nbsp;A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand.
 
 🔵 &nbsp;Bombastic [Backend Repo](https://github.com/emjose/bombastic-b/#bombastic) • [Frontend Repo](https://github.com/emjose/bombastic-f/#bombastic)
 
-🔵 &nbsp;Bombastic [Video Demo](https://youtu.be/qo_YDasFpkM)
+🔵 &nbsp;Bombastic [Video Demo](https://youtu.be/qo_YDasFpkM) -->
+
+A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand: &nbsp;**[Backend Repo](https://github.com/emjose/bombastic-b/#bombastic)** • **[Frontend Repo](https://github.com/emjose/bombastic-f/#bombastic)** • **[Video Demo](https://youtu.be/qo_YDasFpkM)**
 
 #
 
