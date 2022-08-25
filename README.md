@@ -79,7 +79,7 @@
 
 🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
 
-🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines.
+🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines. <p id="portfolio"><p>
 
 #
 
@@ -133,10 +133,10 @@ PARSED PROJECT DEMO BADGES
 
 <a href=#portfolio>![Portfolio and Social](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-portfolio_owkies.png)</a> <p id="github-stats"><p>
 
-<p><a href="https://www.emmanuel-jose.com"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=108 alt="Portfolio badge"></a> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=32 width=108 alt="Gmail badge"></a> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32 width=108 alt="Instagram badge"></a> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=32 width=108 alt="Medium badge"></a> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32 width=108 alt="Linkedin badge"></a> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=108 alt="Twitter badge"></a> <a href="https://www.emmanuel-jose.com/documents/Emmanuel-Jose-Resume-2022.pdf"><img src="https://img.shields.io/badge/résumé-%233FC4FE.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=108 alt="Résumé badge"></a></p>
+<p><a href="https://www.emmanuel-jose.com"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=107 alt="Portfolio badge"></a> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=32 width=107 alt="Gmail badge"></a> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32 width=107 alt="Instagram badge"></a> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=32 width=107 alt="Medium badge"></a> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32 width=107 alt="Linkedin badge"></a> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=107 alt="Twitter badge"></a> <a href="https://www.emmanuel-jose.com/documents/Emmanuel-Jose-Resume-2022.pdf"><img src="https://img.shields.io/badge/résumé-%233FC4FE.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=107 alt="Résumé badge"></a></p>
 <!-- initial height: 30, now 32 -->
 <!-- initial width: 100, 95, now 110 -->
-<!-- initial width: 100, 95, now 108 -->
+<!-- initial width: 100, 95, now 107 -->
 
 #
 
