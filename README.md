@@ -75,11 +75,11 @@
 
 🟡 &nbsp;I'm currently working on <a href="https://github.com/emjose/one-hundred/#header">#100DaysOfCode.</a>
 
-🟢 &nbsp;I'm currently learning **C#** & **Agile Methodology**. <p id="project-demos"><p>
+🟢 &nbsp;I'm currently learning **C#** & **Agile Methodology**. <p id="portfolio"><p>
 
 🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
 
-🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines. <p id="portfolio"><p>
+🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines. 
 
 #
 
