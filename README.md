@@ -79,7 +79,7 @@
 
 🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
 
-🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines. 
+🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines.
 
 #
 
@@ -133,7 +133,7 @@ PARSED PROJECT DEMO BADGES
 
 <a href=#portfolio>![Portfolio and Social](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-portfolio_owkies.png)</a> <p id="github-stats"><p>
 
-<p><a href="https://www.emmanuel-jose.com"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=107 alt="Portfolio badge"></a> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=32 width=107 alt="Gmail badge"></a> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32 width=107 alt="Instagram badge"></a> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=32 width=107 alt="Medium badge"></a> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32 width=107 alt="Linkedin badge"></a> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=107 alt="Twitter badge"></a> <a href="https://www.emmanuel-jose.com/documents/Emmanuel-Jose-Resume-2022.pdf"><img src="https://img.shields.io/badge/résumé-%233FC4FE.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=107 alt="Résumé badge"></a></p>
+<p><a href="https://www.emmanuel-jose.com"><img src="https://img.shields.io/badge/portfolio-%23FF0000.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=110 alt="Portfolio badge"></a> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=32 width=110 alt="Gmail badge"></a> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32 width=110 alt="Instagram badge"></a> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=32 width=110 alt="Medium badge"></a> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32 width=110 alt="Linkedin badge"></a> <a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32 width=110 alt="Twitter badge"></a> <a href="https://www.emmanuel-jose.com/documents/Emmanuel-Jose-Resume-2022.pdf"><img src="https://img.shields.io/badge/résumé-%233FC4FE.svg?&style=for-the-badge&logo=reverbnation&logoColor=white" height=32 width=110 alt="Résumé badge"></a></p>
 <!-- initial height: 30, now 32 -->
 <!-- initial width: 100, 95, now 110 -->
 <!-- initial width: 100, 95, now 107 -->
@@ -178,16 +178,19 @@ PARSED SOCIAL MEDIA BADGES
 
 <!-- <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/> -->
 
-<!-- 
+<!--
 - Most used languages card started appearing blank on Wednesday, August 24, 2022.
 - Github Stats card repo was forked, personal access token generated, and Vercel instance deployed.
-- Most used languages card is still blank. 
+- Most used languages card is still blank.
 - Personal Vercel deployment below:
 -->
 
-<!-- <img height="150px"  src="https://github-readme-stats-flame-phi.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats-flame-phi.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/> -->
+<!-- GitHub Stats and Most Used Languages -->
 
-<img height="150px" src="https://github-readme-stats-flame-phi.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="http://github-readme-streak-stats.herokuapp.com/?user=emjose&theme=dark&hide_border=true&background=8437C3&stroke=FFFFFF&dates=F0F0F0"/>
+<img height="150px"  src="https://github-readme-stats-flame-phi.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats-flame-phi.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
+
+<!-- GitHub Stats and GitHub Streak -->
+<!-- <img height="150px" src="https://github-readme-stats-flame-phi.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="http://github-readme-streak-stats.herokuapp.com/?user=emjose&theme=dark&hide_border=true&background=8437C3&stroke=FFFFFF&dates=F0F0F0"/> -->
 
 <!--
 
