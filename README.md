@@ -51,7 +51,7 @@
 
 <p id="intro"><p>
 
-<!-- <a href="https://github.com/emjose">![Hi! I'm Emmanuel, a software engineer and artist in NYC.](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-intro_v2skrj.png)</a> -->
+<a href="https://github.com/emjose">![Hi! I'm Emmanuel, a software engineer and artist in NYC.](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-intro_v2skrj.png)</a>
 
 <!--
 
