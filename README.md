@@ -149,7 +149,7 @@ PARSED PROJECT DEMO BADGES
 <!-- initial height: 30, now 32 -->
 <!-- initial width: 100, 95, 110, now 107 -->
 
-<!-- # -->
+#
 
 <!--
 
