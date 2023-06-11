@@ -24,7 +24,7 @@
 
 <p id="banner"><p>
 
-<a href="https://www.emmanuel-jose.com">![banner](https://user-images.githubusercontent.com/61435324/110541494-d42d1800-80f5-11eb-92e5-570e72bcaebd.gif)</a>
+<a href="https://www.emmanuel-jose.com">![banner](https://user-images.githubusercontent.com/61435324/239661841-f1ab8555-d38a-4fc9-8d22-678c2ec84a2b.gif)</a>
 
 <!--
 
@@ -51,7 +51,7 @@
 
 <p id="intro"><p>
 
-<a href="https://github.com/emjose">![Hi! I'm Emmanuel, a software engineer and artist in NYC.](https://res.cloudinary.com/dn1e07eul/image/upload/v1674659204/Readme%20Headers/inter-intro_k1ak3u.png)</a>
+<a href="https://github.com/emjose">![Hi! I'm Emmanuel, a tech writer and developer in NYC.](https://res.cloudinary.com/dn1e07eul/image/upload/v1686511646/Readme%20Headers/inter-intro-2_iedhsv.png)</a>
 
 <!--
 
@@ -69,7 +69,7 @@
 
  -->
 
-🔴 &nbsp;My pronouns are **he** / **him** / **his**
+<!-- 🔴 &nbsp;My pronouns are **he** / **him** / **his**
 
 🟠 &nbsp;I'm looking for help with **Algorithms**.
 
@@ -79,7 +79,7 @@
 
 🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
 
-🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines.
+🟣 &nbsp;I was born in Quezon City, Metro Manila, in the Philippines. -->
 
 #
 
@@ -137,7 +137,7 @@ PARSED PROJECT DEMO BADGES
 <!-- initial height: 30, now 32 -->
 <!-- initial width: 100, 95, 110, now 107 -->
 
-#
+<!-- # -->
 
 <!--
 
@@ -171,11 +171,11 @@ PARSED SOCIAL MEDIA BADGES
 
 <!-- <p id="github-stats"><p> -->
 
-<a href=#github-stats>![Github Stats](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-github-stats_nojtt8.png)</a> <p id="technologies">
+<!-- <a href=#github-stats>![Github Stats](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-github-stats_nojtt8.png)</a> <p id="technologies"> -->
 
 <!-- The public vercel deployment from the original repo: -->
 
-<img height="150px"  src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=372&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
+<!-- <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=emjose&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjose&hide=html&hide_border=true&card_width=372&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/> -->
 
 <!-- card width: 320, 372 -->
 <!--
@@ -343,11 +343,11 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 // 10
 <a href=""><img alt="Day " src="https://img.shields.io/badge/-Day -4256ed?style=for-the-badge&logo=day" height=30 width=76/></a> -->
 
-#
+<!-- #
 
 <a href=#stopasianhate>![Stop Asian Hate](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-stopasianhate-2_mjxiqo.png)</a>
 
-<a href="https://bit.ly/startasianlove">![Start Asian Love](Assets/SAL-banner-2.png)</a> <p id="bombastic"><p>
+<a href="https://bit.ly/startasianlove">![Start Asian Love](Assets/SAL-banner-2.png)</a> <p id="bombastic"><p> -->
 
 <!-- 🟣 &nbsp;A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources.
 
@@ -355,13 +355,13 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 🟣 &nbsp;Start Asian Love [Video Demo](https://youtu.be/mg_Df1Qtm3A) -->
 
-A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources: &nbsp;**[Repo](https://github.com/wlcreate/Start-Asian-Love)** • **[Live Site](https://bit.ly/startasianlove)** • **[Video Demo](https://youtu.be/mg_Df1Qtm3A)**
+<!-- A collaborative site to amplify Asian voices and provide **#StopAsianHate** resources: &nbsp;**[Repo](https://github.com/wlcreate/Start-Asian-Love)** • **[Live Site](https://bit.ly/startasianlove)** • **[Video Demo](https://youtu.be/mg_Df1Qtm3A)** -->
 
-#
+<!-- #
 
 <a href=#bombastic>![E-commerce](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-ecommerce_wwkp44.png)</a>
 
-<a href="https://youtu.be/qo_YDasFpkM">![Bombastic](Assets/Bombastic-banner.png)</a> <p id="resources"><p>
+<a href="https://youtu.be/qo_YDasFpkM">![Bombastic](Assets/Bombastic-banner.png)</a> <p id="resources"><p> -->
 
 <!-- 🔵 &nbsp;A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand.
 
@@ -369,7 +369,7 @@ A collaborative site to amplify Asian voices and provide **#StopAsianHate** reso
 
 🔵 &nbsp;Bombastic [Video Demo](https://youtu.be/qo_YDasFpkM) -->
 
-A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand: &nbsp;**[Backend Repo](https://github.com/emjose/bombastic-b/#bombastic)** • **[Frontend Repo](https://github.com/emjose/bombastic-f/#bombastic)** • **[Video Demo](https://youtu.be/qo_YDasFpkM)**
+<!-- A mock e-commerce site inspired by the [Bombas](https://bombas.com/) apparel brand: &nbsp;**[Backend Repo](https://github.com/emjose/bombastic-b/#bombastic)** • **[Frontend Repo](https://github.com/emjose/bombastic-f/#bombastic)** • **[Video Demo](https://youtu.be/qo_YDasFpkM)** -->
 
 #
 
