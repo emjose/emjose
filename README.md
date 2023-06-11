@@ -181,9 +181,9 @@ PARSED SOCIAL MEDIA BADGES
 
 -->
 
-<!-- <p id="github-stats"><p> -->
+<p id="github-stats"><p>
 
-<!-- <a href=#github-stats>![Github Stats](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-github-stats_nojtt8.png)</a> <p id="technologies"> -->
+<a href=#github-stats>![Github Stats](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-github-stats_nojtt8.png)</a> <p id="technologies">
 
 <!-- The public vercel deployment from the original repo: -->
 
