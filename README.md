@@ -357,7 +357,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 #
 
-<!-- <a href=#stopasianhate>![Stop Asian Hate](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-stopasianhate-2_mjxiqo.png)</a> -->
+<a href=#stopasianhate>![Stop Asian Hate](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-stopasianhate-2_mjxiqo.png)</a>
 
 <a href="https://bit.ly/startasianlove">![Start Asian Love](Assets/SAL-banner-2.png)</a> <p id="bombastic"><p>
 
@@ -371,7 +371,7 @@ A collaborative site to amplify Asian voices and provide **#StopAsianHate** reso
 
 #
 
-<!-- <a href=#bombastic>![E-commerce](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-ecommerce_wwkp44.png)</a> -->
+<a href=#bombastic>![E-commerce](https://res.cloudinary.com/dn1e07eul/image/upload/v1659313867/Readme%20Headers/inter-ecommerce_wwkp44.png)</a>
 
 <a href="https://youtu.be/qo_YDasFpkM">![Bombastic](Assets/Bombastic-banner.png)</a> <p id="resources"><p>
 
